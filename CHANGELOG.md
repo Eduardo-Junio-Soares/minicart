@@ -11,6 +11,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ### Added 
 - New `block` variation
+- teste
 
 ## [2.61.1] - 2021-09-13
 ### Added
